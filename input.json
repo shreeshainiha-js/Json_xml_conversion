@@ -1,0 +1,10 @@
+{
+    "name": "Shainiha",
+    "age": 21,
+    "student": true,
+    "skills": ["python", "writing", null],
+    "address": {
+        "city": "Chennai",
+        "zip": 600001
+    }
+}

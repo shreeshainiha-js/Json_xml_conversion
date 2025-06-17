@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<object><string name="name">Shainiha</string><number name="age">21</number><boolean name="student">true</boolean><array name="skills"><string>python</string><string>writing</string><null /></array><object name="address"><string name="city">Chennai</string><number name="zip">600001</number></object></object>
